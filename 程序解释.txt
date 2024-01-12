@@ -1,0 +1,58 @@
+Dist.m   欧氏距离的函数文件
+ni_xu.m 逆序数的函数文件
+
+ 
+jia.m   贾凡和刘培德的INS，函数文件
+lunwen5_jue.m  张凯三支TFS，函数文件，绝对条件概率
+lunwen5_xiang.m  张凯三支TFS，函数文件，相对条件概率
+lunwen7.m   本文的方法，函数文件
+topsis.m   TOPSIS方法，函数文件
+WAA.m  WAA方法，函数文件
+Jiang1.m   蒋海波TFS文章第一篇，函数文件
+
+
+zhuchengxu7.m  主程序1，可以计算出小数据下各种方法的排序结果
+
+zhuchengxu7_2.m  数据集1   主程序2，无监督排序用\2CSM2014数据集合2015数据集\2014-and-2015-CSM-dataset，计算排序结果，8个准则，187个对象
+
+zhuchengxu7_3.m  数据集2 主程序3，\无监督排序用\3葡萄酒\winequality-red'，计算排序结果，6个准则，对象1599
+
+zhuchengxu7_4.m  数据集3 主程序4，\无监督排序用\3葡萄酒\winequality-white'，计算排序结果，4个准则，对象4898
+
+zhuchengxu7_5.m  数据集4 主程序5，\无监督排序用\4Baskteball\baskteball'，计算排序结果，6个准则，对象96
+
+zhuchengxu7_5.m  数据集5 主程序6，\无监督排序用\1Travel-Reviews\旅游评论数据集'，计算排序结果,10个准则，980个对象
+
+zhuchengxu7_7.m  数据集6 主程序7，\有监督排序用\计算机硬件\machine，计算排序结果，6个准则，对象209，两个决策准则，
+
+ 
+Spearman.m    基于排序的斯皮尔曼秩相关，函数文件     看整体排序
+
+relative_volatility  基于排序的相关波动率，函数文件       看局部排序
+
+paixu_indicators.m    计算多个排序的相关性指标，将排序读取为xls文件，然后在该程序里进行
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
